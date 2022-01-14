@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess Celebrity</string>
+    <string name="textViewScore_text">Score: %d</string>
+    <string name="button_text">Guess</string>
+    <string name="editText_text">Who is this?</string>
+    <string name="right_guess_text">Right!</string>
+    <string name="wrong_guess_text">Wrong!</string>
+</resources>
